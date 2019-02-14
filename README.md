@@ -12,3 +12,9 @@
   <img src="https://i.imgur.com/uUVV2xW.png" width="250">
   <img src="https://i.imgur.com/FEUFreq.png" width="250">
 </p>
+
+## Demo video
+
+<a href="https://youtu.be/x3Ux0tDy6Wc
+" target="_blank"><img src="http://img.youtube.com/vi/x3Ux0tDy6Wc/0.jpg" 
+alt="Demo video" width="240" height="180" border="10" /></a>
