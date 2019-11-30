@@ -8,9 +8,8 @@
 
 ## Screenshots
 <p align="center">
-  <img src="https://i.imgur.com/aHkmrU7.png" width="250">
-  <img src="https://i.imgur.com/uUVV2xW.png" width="250">
-  <img src="https://i.imgur.com/FEUFreq.png" width="250">
+  <img src="https://github.com/NelisG/WiFi-led-control/blob/master/Screenshots/screenshot_debug.png">
+  <img src="https://github.com/NelisG/WiFi-led-control/blob/master/Screenshots/screenshot_no_debug.png">
 </p>
 
 ## Demo video
